@@ -1,4 +1,4 @@
 body {
     display: grid;
-    grid-column: 1fr 2fr;
+    grid-column: 1fr 2fr 3fr;
 
